@@ -5,6 +5,10 @@
 A simple web server made with Python. 
 My goal is to learn more about Python and to get a good grasp of web servers.
 
+## 📌 Rules for myself 
+- Try to figure it out without tutorials.
+- Rely more on documentation
+
 ## 🛠️ Tech Stack
 - **Backend:** Python
 
