@@ -36,4 +36,4 @@ In Progress...
 ## 🌐 Connect
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Lorenzo Ocampo]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/lxpocampo8888/))
+- LinkedIn: [Lorenzo Ocampo](https://www.linkedin.com/in/lxpocampo8888/)
