@@ -12,12 +12,20 @@ My goal is to learn more about Python and to get a good grasp of web servers.
 - In Progress...
 
 ## 📚 Learning & Insights
-In Progress...
+python's http server library automatically serves the index.html file if available in the current directory.
+Knowing this helped me solve the issue i encountered.
 
 ## 🐞 Issues & Challenges
-- **Issue:** 
+- **Issue:** HTML file was not being served
 - **Cause:** 
+    My terminal was pointing to the directory of my renamed directory. 
+    I had to create an empty folder to clone my repo for this project.
+    Thinking it would automatically update after opening a new window 
+    I immediately ran my server and did not see the HTML file being served when visitng localhost:8000
 - **Solution:** 
+    Went to terminal and ran the ls command. 
+    Saw that index.html was not found. 
+    cd.. into parent directory and into the renamed folder.
 
 ## 🏗️ Installation & Setup
 
