@@ -31,9 +31,12 @@ Knowing this helped me solve the issue i encountered when it was not displaying.
 
 
 ## 🔥 Future Improvements
-- [ ] Improvement 1
-- [ ] Improvement 2
-- [ ] Improvement 3
+- [ ] Serve more static files (CSS, JS, Images)
+- [ ] Handling Dynamic Requests
+- [ ] Return JSON Responses (Basic API)
+- [ ] Handle POST Requests (Form Submissions)
+- [ ] Deploy Web Server (Making It Public)
+- [ ] Update it to use Fast API
 
 ## 📜 License
 - Idea from CodingChallenges
@@ -42,6 +45,4 @@ Knowing this helped me solve the issue i encountered when it was not displaying.
 - Leave some ideas or feedback!
 
 ## 🌐 Connect
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - LinkedIn: [Lorenzo Ocampo](https://www.linkedin.com/in/lxpocampo8888/)
