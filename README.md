@@ -13,7 +13,7 @@ My goal is to learn more about Python and to get a good grasp of web servers.
 
 ## 📚 Learning & Insights
 python's http server library automatically serves the index.html file if available in the current directory.
-Knowing this helped me solve the issue i encountered.
+Knowing this helped me solve the issue i encountered when it was not displaying.
 
 ## 🐞 Issues & Challenges
 - **Issue:** HTML file was not being served
